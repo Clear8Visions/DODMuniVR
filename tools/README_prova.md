@@ -1,4 +1,5 @@
-#  ⚙ Work tools, the TALight platform
+# PROVA
+# ⚙ Work tools, the TALight platform
 
 The course offers a body of theoretical tools but also a set of practical competences. These are not only assessed but also trained and fostered through a set of didactical  problems that the students are asked to solve during the course (proposed as homework or project). Some of these problems will ask you to design an algorithm and others will ask you to just model the problem in terms of either LP (Linear Programming) or ILP (Integer Linear Programming).
 In either case, the product of your work takes the form of a real code with the general understanding that, running your code/machine on a generic instance of the problem, a solution for the generic instance of the assigned problem is automatically obtained.
